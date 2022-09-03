@@ -1,2 +1,2 @@
 My first readme
-Updating from Github interface
+Checking git pull
